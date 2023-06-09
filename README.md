@@ -1,12 +1,8 @@
-# Reactfolio V1.2 👩🏽‍🚀
+# Reactfolio 
 
 <center>
 <img src="https://i.imgur.com/ZWPO61A.jpeg" alt="Reactfolio" />
 </center>
-
-Live demo here: <a href="https://reactfolio.tharindu.dev/" target="_blank">reactfolio.tharindu.dev</a>
-<br/>
-Readme here: <a href="/portfolio/reactfolio/" target="_blank">tharindu.dev/portfolio/reactfolio/</a>
 
 -   [Features](#-features)
 -   [Getting started](#-getting-started)

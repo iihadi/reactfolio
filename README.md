@@ -1,9 +1,5 @@
 # Reactfolio 
 
-<center>
-<img src="https://i.imgur.com/ZWPO61A.jpeg" alt="Reactfolio" />
-</center>
-
 -   [Features](#-features)
 -   [Getting started](#-getting-started)
 -   [Installation and Setup Instructions](#-installation-and-setup-instructions)

@@ -25,6 +25,16 @@ const INFO = {
 	},
 
 	projects: [
+		
+		{
+			title: "Wordle Clone (React) - 2023",
+			description:
+				"Project based off Wordle, it featured use of useEffect, useContext and useState extensively.",
+			logo: "https://react.dev/favicon.ico",
+			linkText: "View Project",
+			link: "https://github.com/iihadi/wordle",
+		},
+		
 
 		{
 			title: "Portfolio Website (React) - 2023",

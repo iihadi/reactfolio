@@ -25,6 +25,33 @@ const INFO = {
 	},
 
 	projects: [
+		{
+			title: "To Do List App (Angular) - 2023",
+			description:
+				"This is a basic todo list that has features like: add, remove and complete a task.",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png",
+			linkText: "View Project",
+			link:""
+		},
+		{
+			title: "Arkanoid Game (Typescript) - 2023",
+			description:
+				"A classic Arkanoid game with types, classes, modules and modern code in Typescript. Still work in progress :)",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
+			linkText: "View Project",
+			link:""
+		},
+
+		{
+			title: "Pokemon Clone - 2023",
+			description:
+				"This is still a work in progress project, its a basic version of Pokemon written in Javascript.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link:""
+
+		},
+
 		
 		{
 			title: "Wordle Clone (React) - 2023",
@@ -42,7 +69,7 @@ const INFO = {
 				"This website 😊",
 			logo: "https://react.dev/favicon.ico",
 			linkText: "View Project",
-			link: "",
+			link:"/"
 		},
 		
 		{
@@ -57,10 +84,10 @@ const INFO = {
 		{
 			title: "Genetic Algorithms Final Year Project (C#, Unity) - 2022",
 			description:
-				"For my final year dissertation, i created a Unity project (written in C#) to utilise Genetic Algorithms. The project was to havethe Genetic Algorithm fi gure out the ideal design of a car to complete a course in the fastest time.",
-			logo: "https://s1.wp.com/i/favicon.ico?v=1447321881",
-			linkText: "",
-			link: "",
+				"For my final year dissertation, I created a Unity project (written in C#) to utilise Genetic Algorithms. The project was to have the Genetic Algorithm figure out the ideal design of a car to complete a course in the fastest time.",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png",
+			linkText: "View Project",
+			link:""
 		},
 		{
 			title: "Restaurant Website (WordPress) ‑ 2021",
@@ -86,7 +113,7 @@ const INFO = {
 				"Built a discord bot in JavaScript. Can perform functions such as playing music.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "",
-			link: "",
+			link:""
 		},
 
 		{

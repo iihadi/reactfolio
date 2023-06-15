@@ -43,7 +43,7 @@ const INFO = {
 		},
 
 		{
-			title: "Pokemon Clone - 2023",
+			title: "Pokemon Clone (Javascript) - 2023",
 			description:
 				"This is still a work in progress project, its a basic version of Pokemon written in Javascript.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
